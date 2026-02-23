@@ -22,9 +22,9 @@ Praticar e consolidar conceitos importantes como:
 
 Os projetos estão divididos por aulas:
 
-aula1/
-aula2/
-aula3/
+aula1/</br>
+aula2/</br>
+aula3/</br>
 ...
 
 
