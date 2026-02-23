@@ -1,0 +1,37 @@
+# =========================
+# Java - Arquivos compilados
+# =========================
+*.class
+
+# Pastas de build
+dist/
+bin/
+out/
+build/
+
+# =========================
+# IDEs
+# =========================
+
+# VS Code
+.vscode/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
