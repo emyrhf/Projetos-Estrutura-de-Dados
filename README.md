@@ -33,7 +33,7 @@ Cada aula pode possuir estruturas diferentes, conforme o conteúdo abordado.
 Estrutura mais comum dos projetos:
 
 
-src/ → Código-fonte
+src/ → Código-fonte</br>
 dist/ → Arquivos compilados
 
 
