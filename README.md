@@ -20,11 +20,11 @@ Praticar e consolidar conceitos importantes como:
 
 ## 📂 Organização do Repositório
 
-Os projetos estão divididos por aulas:
+Os projetos estão divididos por matérias:
 
-aula1/</br>
-aula2/</br>
-aula3/</br>
+grifo_lista/</br>
+lista_simples/</br>
+lista_encadeada/</br>
 ...
 
 
