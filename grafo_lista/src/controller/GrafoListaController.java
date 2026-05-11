@@ -18,6 +18,8 @@ public class GrafoListaController{
         g.add(2, 3);
         g.add(3, 4);
 
+        g.remover(1, 3);
+
         return g.toString();
     }
 }

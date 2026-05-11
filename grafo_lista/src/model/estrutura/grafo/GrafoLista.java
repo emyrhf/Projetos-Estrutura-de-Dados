@@ -31,6 +31,15 @@ public class GrafoLista<T>{
         return map.keySet().size();
     }
 
+     public void remover(T source, T destination){
+        if(!map.containsKey(source) || !map.containsKey(destination)){
+            return;
+        }
+
+        map.get(source).remove(destination);
+        map.get(destination).remove(source);
+    }
+
     @Override public String toString(){
         StringBuilder builder = new StringBuilder();
 
